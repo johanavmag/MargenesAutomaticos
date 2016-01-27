@@ -1,0 +1,27 @@
+div{
+	background-color: #ff1a8d;
+	border:10px solid #ff8000;
+	width: 200px;
+	height: 200px;
+	padding: 22px;
+	margin-top: 5px;
+	border-radius: 40px;
+}
+
+p {
+	font-family: Cursive;
+	text-align: center;
+	font-size: 14px;
+	color:white;
+	text-shadow: 2px 2px #000000;
+}
+.Div2 {
+	background-color:#0099ff;
+	margin-left: 500px;
+	padding: 22px;
+	border:10px solid #33ff33;
+	border-radius: 40px;
+}
+body {
+	background-image: url("http://www.snazzyspace.com/wallpapers/000000_colored-polka-dots.png");
+}
